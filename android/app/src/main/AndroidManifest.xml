@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="mental_health_tracker"
+        android:label="mojo_dojo_casa_house"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
